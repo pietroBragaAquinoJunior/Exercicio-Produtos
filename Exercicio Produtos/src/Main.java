@@ -29,6 +29,8 @@ public class Main {
 		quant = sc.nextInt();
 		a.RemoveProducts(quant);
 		System.out.println(a);
+		
+		sc.close();
 	}
 
 }
